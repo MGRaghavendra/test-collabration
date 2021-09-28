@@ -18,11 +18,9 @@ public:
     std::vector<int> rightSideView(TreeNode *root)
     {
         std::vector<int> res;
-        if (root == NULL)
-        {
-            return res;
-        }
         std::queue<TreeNode *> q;
+        if (root == NULL)
+            return res;
         q.push(root);
         while (!q.empty())
         {
@@ -32,17 +30,13 @@ public:
                 TreeNode *current = q.front();
                 q.pop();
                 if (i == size - 1)
-                {
                     res.push_back(current->val);
-                }
+
                 if (current->left != NULL)
-                {
                     q.push(current->left);
-                }
+
                 if (current->right != NULL)
-                {
                     q.push(current->right);
-                }
             }
         }
         return res;
