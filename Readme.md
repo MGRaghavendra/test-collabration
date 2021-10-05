@@ -11,3 +11,4 @@
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | medium     |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | easy       |
 | 705  | [Design HashSet](https://leetcode.com/problems/design-hashset/)                                         | easy       |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     | easy       |
