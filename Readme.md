@@ -14,3 +14,4 @@
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     | easy       |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                         | easy       |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | easy       |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                         | easy       |
