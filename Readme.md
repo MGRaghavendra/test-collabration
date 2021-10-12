@@ -16,3 +16,4 @@
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | easy       |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                         | easy       |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)                       | easy       |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)             | easy       |
