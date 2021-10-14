@@ -1,7 +1,7 @@
 ## Leetcode Problems
 
 | no   | Problems                                                                                                                                    | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --- |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                       | medium     |
 | 114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                     | medium     |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                                                                           | easy       |
@@ -18,3 +18,4 @@
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)                                                           | easy       |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                 | easy       |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | easy       |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                             | easy       |     |
