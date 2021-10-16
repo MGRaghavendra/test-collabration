@@ -22,3 +22,4 @@
 | 18   | 1137       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                             | easy       |
 | 19   | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                        | easy       |
 | 20   | 746        | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                         | easy       |
+| 21   | 119        | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                  | easy       |
