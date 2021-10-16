@@ -1,4 +1,4 @@
-#Leetcode Problems
+# Leetcode Problems
 
 | S.No | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -21,3 +21,4 @@
 | 17   | 1688       | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                             | easy       |
 | 18   | 1137       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                             | easy       |
 | 19   | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                        | easy       |
+| 20   | 746        | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                         | easy       |
