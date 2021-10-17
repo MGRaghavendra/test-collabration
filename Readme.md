@@ -23,3 +23,4 @@
 | 19   | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                        | easy       |
 | 20   | 746        | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                         | easy       |
 | 21   | 119        | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                  | easy       |
+| 22   | 392        | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                             | easy       |
