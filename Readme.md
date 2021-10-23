@@ -26,3 +26,4 @@
 | 22   | 392        | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                             | easy       |
 | 23   | 1646       | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)                                             | easy       |
 | 24   | 877        | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                                     | medium     |
+| 25   | 931        | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                                         | medium     |
