@@ -27,3 +27,5 @@
 | 23   | 1646       | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)                                             | easy       |
 | 24   | 877        | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                                     | medium     |
 | 25   | 931        | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                                         | medium     |
+| 26   | 344        | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                             | medium     |
+| 27   | 231        | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                 | easy       |
