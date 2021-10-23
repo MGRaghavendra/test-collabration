@@ -1,7 +1,8 @@
 var reverseString = function (s) {
   function helper(i, j, s) {
-    if (i >= j) return s;
-    else {
+    if (i >= j) {
+      return s;
+    } else {
       let temp = s[i];
       s[i] = s[j];
       s[j] = temp;
