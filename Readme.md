@@ -29,3 +29,4 @@
 | 25   | 931        | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                                         | medium     |
 | 26   | 344        | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                             | medium     |
 | 27   | 231        | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                 | easy       |
+| 28   | 1669       | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                               | medium     |
