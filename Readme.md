@@ -30,3 +30,4 @@
 | 26   | 344        | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                             | medium     |
 | 27   | 231        | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                 | easy       |
 | 28   | 1669       | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                               | medium     |
+| 29   | 24         | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                   | medium     |
