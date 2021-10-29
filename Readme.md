@@ -7,7 +7,7 @@
 | 3    | 1089       | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                                                                           | easy       |
 | 4    | 100        | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                       | esay       |
 | 5    | 199        | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                   | medium     |
-| 6    | 98         | [ Validate Binary Search Tree](https://leetcode.com/problemsvalidate-binary-search-tree)                                                    | medium     |
+| 6    | 98         | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                   | medium     |
 | 7    | 1161       | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                                     | medium     |
 | 8    | 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                   | easy       |
 | 9    | 705        | [Design HashSet](https://leetcode.com/problems/design-hashset/)                                                                             | easy       |
@@ -32,3 +32,4 @@
 | 28   | 1669       | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                               | medium     |
 | 29   | 24         | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                   | medium     |
 | 30   | 1721       | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                           | medium     |
+| 31   | 1019       | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                         | medium     |
