@@ -34,3 +34,4 @@
 | 30   | 1721       | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)                                           | medium     |
 | 31   | 1019       | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                         | medium     |
 | 32   | 328        | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                                 | medium     |
+| 33   | 142        | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                 | medium     |
