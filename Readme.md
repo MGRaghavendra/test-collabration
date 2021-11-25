@@ -1,12 +1,13 @@
 # Leetcode Problems
 
-# 35 problems
+# 36 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 2          | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                           | medium     |
 | 11         | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                       | medium     |
 | 24         | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                   | medium     |
+| 42         | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                   | hard       |
 | 98         | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                   | medium     |
 | 100        | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                       | esay       |
 | 104        | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                 | easy       |
