@@ -8,6 +8,7 @@
 | 11         | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                       | medium     |
 | 24         | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                   | medium     |
 | 42         | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                   | hard       |
+| 82         | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                               | medium     |
 | 98         | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                   | medium     |
 | 100        | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                       | esay       |
 | 104        | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                 | easy       |
