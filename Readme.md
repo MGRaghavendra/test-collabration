@@ -12,6 +12,7 @@
 | 82         | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                               | medium     |
 | 98         | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                   | medium     |
 | 100        | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                       | esay       |
+| 101        | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                             | easy       |
 | 104        | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                 | easy       |
 | 114        | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                     | medium     |
 | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                        | easy       |
