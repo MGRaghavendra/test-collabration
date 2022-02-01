@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 42 problems
+# 43 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -10,6 +10,7 @@
 | 24         | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                   | medium     |
 | 42         | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                                   | hard       |
 | 82         | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)                               | medium     |
+| 88         | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                     | easy       |
 | 98         | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                   | medium     |
 | 100        | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                       | esay       |
 | 101        | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                             | easy       |
