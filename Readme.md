@@ -18,6 +18,7 @@
 | 114        | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                     | medium     |
 | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                        | easy       |
 | 119        | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                  | easy       |
+| 139        | [Word Break](https://leetcode.com/problems/word-break/)                                                                                     | medium     |
 | 142        | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                 | medium     |
 | 160        | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                         | easy       |
 | 162        | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                       | medium     |
