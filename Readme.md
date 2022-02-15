@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 45 problems
+# 46 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -35,6 +35,7 @@
 | 392        | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                             | easy       |
 | 445        | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                                                     | medium     |
 | 476        | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                       | easy       |
+| 590        | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                                             | easy       |
 | 705        | [Design HashSet](https://leetcode.com/problems/design-hashset/)                                                                             | easy       |
 | 746        | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                         | easy       |
 | 771        | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)                                                           | easy       |
