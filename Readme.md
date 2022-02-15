@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 44 problems
+# 45 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -40,6 +40,7 @@
 | 771        | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)                                                           | easy       |
 | 877        | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                                     | medium     |
 | 931        | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                                         | medium     |
+| 938        | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                         | easy       |
 | 1019       | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                         | medium     |
 | 1089       | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                                                                           | easy       |
 | 1137       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                             | easy       |
