@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 46 problems
+# 47 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -22,6 +22,7 @@
 | 142        | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                 | medium     |
 | 160        | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                         | easy       |
 | 162        | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                       | medium     |
+| 169        | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                         | easy       |
 | 199        | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                   | medium     |
 | 203        | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                   | easy       |
 | 206        | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                   | easy       |
