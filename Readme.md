@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 52 problems
+# 53 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -49,6 +49,7 @@
 | 938        | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                         | easy       |
 | 1019       | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                         | medium     |
 | 1089       | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                                                                           | easy       |
+| 1022       | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)                                     | easy       |
 | 1137       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                             | easy       |
 | 1161       | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                                     | medium     |
 | 1281       | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | easy       |
