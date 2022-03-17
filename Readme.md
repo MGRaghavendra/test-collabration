@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 51 problems
+# 52 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -19,6 +19,7 @@
 | 114        | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)                                     | medium     |
 | 118        | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                        | easy       |
 | 119        | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                  | easy       |
+| 138        | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                               | medium     |
 | 139        | [Word Break](https://leetcode.com/problems/word-break/)                                                                                     | medium     |
 | 142        | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                                 | medium     |
 | 160        | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                         | easy       |
