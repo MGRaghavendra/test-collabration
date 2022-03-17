@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 49 problems
+# 50 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -50,6 +50,7 @@
 | 1137       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                             | easy       |
 | 1161       | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                                     | medium     |
 | 1281       | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | easy       |
+| 1448       | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                           | medium     |
 | 1646       | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)                                             | easy       |
 | 1669       | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                               | medium     |
 | 1688       | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                             | easy       |
