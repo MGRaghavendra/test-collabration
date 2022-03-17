@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 50 problems
+# 51 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -42,6 +42,7 @@
 | 705        | [Design HashSet](https://leetcode.com/problems/design-hashset/)                                                                             | easy       |
 | 746        | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                                         | easy       |
 | 771        | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/)                                                           | easy       |
+| 856        | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)                                                                 | medium     |
 | 877        | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                                     | medium     |
 | 931        | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                                         | medium     |
 | 938        | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                         | easy       |
