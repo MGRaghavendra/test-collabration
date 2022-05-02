@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-# 55 problems
+# 56 problems
 
 | Problem.No | Title                                                                                                                                       | Difficulty |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -47,6 +47,7 @@
 | 844        | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                           | easy        |
 | 856        | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)                                                                 | medium     |
 | 877        | [Stone Game](https://leetcode.com/problems/stone-game/)                                                                                     | medium     |
+| 905 |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| easy |
 | 931        | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)                                                         | medium     |
 | 938        | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                         | easy       |
 | 1019       | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                         | medium     |
